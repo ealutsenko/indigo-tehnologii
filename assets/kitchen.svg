@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Профессиональная кухня</title>
+  <desc id="desc">Иллюстрация кухни с вытяжкой, плитой и рабочими поверхностями.</desc>
+  <defs>
+    <linearGradient id="wall" x2="1" y2="1"><stop stop-color="#738092"/><stop offset=".54" stop-color="#a5adb4"/><stop offset="1" stop-color="#626d80"/></linearGradient>
+    <linearGradient id="steel" x2="1" y2=".6"><stop stop-color="#edf0eb"/><stop offset=".35" stop-color="#aab5be"/><stop offset=".65" stop-color="#e4e7e3"/><stop offset="1" stop-color="#798895"/></linearGradient>
+    <linearGradient id="darksteel" x2="1" y2="1"><stop stop-color="#596577"/><stop offset="1" stop-color="#283447"/></linearGradient>
+    <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#546075"/><stop offset="1" stop-color="#202a40"/></linearGradient>
+    <linearGradient id="light" x2="0" y2="1"><stop stop-color="#fff6d7" stop-opacity=".45"/><stop offset="1" stop-color="#fff6d7" stop-opacity="0"/></linearGradient>
+    <pattern id="tiles" width="114" height="58" patternUnits="userSpaceOnUse"><path d="M0 0H114M0 58H114M0 0V58M114 0V58" stroke="#d5dadb" stroke-opacity=".28" stroke-width="2"/></pattern>
+  </defs>
+  <path fill="url(#wall)" d="M0 0h900v900H0z"/>
+  <path fill="#adb8be" d="M0 0h900v577H0z" opacity=".42"/>
+  <path fill="url(#tiles)" d="M0 0h900v620H0z"/>
+  <path fill="#243047" d="M0 575h900v325H0z"/>
+  <path fill="url(#floor)" d="M0 620h900v280H0z"/>
+  <path d="M0 619 900 700M0 765 900 835M90 620 16 900M290 620 260 900M510 620 540 900M725 620 825 900" stroke="#8a96a1" stroke-opacity=".22" stroke-width="2"/>
+  <path d="M198 0h508v63H198z" fill="#536074"/>
+  <path d="M240 63h426l64 225H178z" fill="url(#steel)"/>
+  <path d="M178 274h552v35H178z" fill="#455268"/>
+  <path d="M190 281h529v8H190z" fill="#dce4e4" opacity=".65"/>
+  <path d="M270 69h7l-42 203h-7zM619 69h7l42 203h-7z" fill="#fff" opacity=".22"/>
+  <path d="M205 308h502l-83 205H282z" fill="url(#light)"/>
+  <path d="M261 303h76v7h-76zM555 303h76v7h-76z" fill="#fff3d3" opacity=".8"/>
+  <path d="M49 365h205M668 365h176" stroke="#33445a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M82 369v78m21-77v50m36-50v77m39-77v56m528-55v76m39-76v62m40-62v76" stroke="#d6ddde" stroke-width="5" stroke-linecap="round"/>
+  <path d="M67 444h30l-8 28H75zm60 0h24l-5 25h-15zm591 4h35l-8 29h-19zm62 0h19l-4 27h-12z" fill="#697b89"/>
+  <path d="M37 402h131v10H37z" fill="#546377"/>
+  <path d="M0 514h900v33H0z" fill="url(#steel)"/>
+  <path d="M0 543h900v27H0z" fill="#3d4a5e"/>
+  <path d="M0 568h900v24H0z" fill="#738294"/>
+  <path d="M32 592h835v185H32z" fill="url(#darksteel)"/>
+  <path d="M52 606h173v154H52zm188 0h174v154H240zm190 0h199v154H430zm214 0h202v154H644z" fill="#7b8999" stroke="#344055" stroke-width="7"/>
+  <path d="M71 624h134v117H71zm189 0h134v117H260zm190 0h159v117H450zm214 0h162v117H664z" fill="#647588"/>
+  <path d="M194 642v80m189-80v80m216-80v80m216-80v80" stroke="#b3bec1" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="107" cy="556" r="7" fill="#303a4e"/><circle cx="158" cy="556" r="7" fill="#303a4e"/><circle cx="574" cy="556" r="7" fill="#303a4e"/><circle cx="624" cy="556" r="7" fill="#303a4e"/>
+  <path d="M300 510h302v17H300z" fill="#283448"/>
+  <ellipse cx="369" cy="510" rx="59" ry="10" fill="#1e2a3e"/><ellipse cx="536" cy="510" rx="53" ry="10" fill="#1e2a3e"/>
+  <path d="M327 446h86l-9 64h-68z" fill="url(#steel)" stroke="#647484" stroke-width="3"/>
+  <ellipse cx="370" cy="446" rx="47" ry="9" fill="#465569"/><ellipse cx="370" cy="445" rx="39" ry="5" fill="#a8b4bb"/>
+  <path d="M411 456h65l-1 10h-62z" fill="#798b98"/>
+  <path d="M503 471h69l-6 39h-56z" fill="url(#steel)" stroke="#647484" stroke-width="3"/>
+  <ellipse cx="537" cy="471" rx="37" ry="7" fill="#475667"/><path d="M572 479h56v8h-57z" fill="#9aa8af"/>
+  <path d="M351 420c-10-20 9-29 1-45m22 48c-8-16 8-26 1-39m164 64c-7-15 7-25 1-36" fill="none" stroke="#f3f5ed" stroke-opacity=".55" stroke-width="4" stroke-linecap="round"/>
+  <path d="M-70 705 617 634l339 71-700 112z" fill="url(#steel)" stroke="#49566b" stroke-width="6"/>
+  <path d="M-70 705 256 817v23L-70 731zm326 112 700-112v27L256 840z" fill="#47566c"/>
+  <path d="M68 765v135h26V774zm685-8v143h25V753z" fill="#415168"/>
+  <ellipse cx="370" cy="710" rx="120" ry="29" fill="#6f7d89" opacity=".36"/>
+  <path d="m272 694 142-15 74 22-142 19z" fill="#c9bba1" stroke="#6c7580" stroke-width="3"/>
+  <path d="m319 691 80-7m-43 12 45-4" stroke="#a3947c" stroke-width="2"/>
+  <path d="M568 676c0 21 17 36 39 36s39-15 39-36z" fill="#dde3de"/>
+  <ellipse cx="607" cy="676" rx="39" ry="10" fill="#aab8b7"/>
+  <path d="M0 0h900v900H0z" fill="#202661" opacity=".13"/>
+</svg>
